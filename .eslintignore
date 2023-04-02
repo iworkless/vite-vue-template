@@ -1,12 +1,12 @@
 *.sh
 node_modules
+dist
+/public
+/docs
 *.md
 *.woff
 *.ttf
 .vscode
 .idea
-dist
-public
-docs
 .husky
 .local
